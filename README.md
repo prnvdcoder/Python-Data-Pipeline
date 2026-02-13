@@ -12,9 +12,6 @@ This is a simple Python-based data pipeline that:
 This project was built while learning core Data Engineering fundamentals such as logging, file handling, and data transformation.
 
 ---
-
----
-
 ## 🛠 Concepts Practiced
 
 - File handling  
